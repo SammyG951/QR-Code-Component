@@ -44,13 +44,15 @@ Pretty proud of this particular snippet
 
 ```css
 .card {
-    border-radius: 10px;
-    box-shadow: 0 0 20px 5px lightgray;background-color: white;
-    font-family: 'Outfit', sans-serif;;
-    margin: 50% auto;
-    padding: 15px;
-    text-align: center;
-    width: 245px;
+    align-items: center;
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px 5px lightgray;
+    justify-content: center;
+    font-family: 'Outfit', sans-serif;
+    margin: 2rem;
+    padding: 1rem;
+    width: 320px;
 }
 ```
 
