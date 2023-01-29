@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Alt text](\images\Finished-product-screenshot.png?raw=true "Finished product")
+![Alt text](/images/Finished-product-screenshot.png?raw=true "Finished product")
 
 ### Links
 
