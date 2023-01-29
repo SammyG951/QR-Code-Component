@@ -23,12 +23,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![Alt text](/images/Finished-product-screenshot.png?raw=true "Finished product")
 
-### Links
-
-Need to add when finalized
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
-
 ## My process
 
 ### Built with
