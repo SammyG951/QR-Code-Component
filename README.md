@@ -58,7 +58,7 @@ In future projects I would like to work on adding these kinds of elements to ful
 
 ## Author
 
-- Github - [@SammyG951](https://github.com/)
+- Github - [@SammyG951](https://github.com/SammyG951)
 - Frontend Mentor - [@SammyG951](https://www.frontendmentor.io/profile/SammyG951)
 
 ## Acknowledgments
